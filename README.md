@@ -1,3 +1,3 @@
 # WSI
-Introduction to AI on WUT
+Introduction to AI on WUT.
 Each folder contains one exercise
